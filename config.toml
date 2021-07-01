@@ -1,7 +1,7 @@
 baseURL = "http://NerdIsMe.github.io/"
 languageCode = "zh-tw"
 defaultContentLanguage = "en"
-title = "一個台大人的告白"
+title = "𨑨迌與生活"
 theme = "uBlogger"
 hasCJKLanguage = true
 googleAnalytics = "G-DQBGLR2E4V"
@@ -51,9 +51,9 @@ googleAnalytics = "G-DQBGLR2E4V"
     # URL of avatar shown in home page
     avatarURL = "images/avatar.jpg"
     # uBlogger CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-    title = "一個台大人的告白"
+    title = "𨑨迌與生活"
     # subtitle shown in home page
-    subtitle = "台大資管系大三，在人生的十字路口猶豫、躊躇、徘徊著"
+    subtitle = "許哲榮的部落格。𨑨迌是台灣閩南語「遊玩」的意思，讀音「ㄑㄧ ㄊㄛˊ」。在大學期間開始摸索職涯、人生以及價值觀。在這邊和大家分享生活的點點滴滴，與個人觀點。"
     # whether to show social links
     social = true
     # uBlogger NEW | 0.2.0 disclaimer (HTML format is supported)
@@ -82,6 +82,9 @@ googleAnalytics = "G-DQBGLR2E4V"
     auto = true
   # Code config
   # 代码配置
+
+[params.social]
+  Email = "whu950046@gmail.com"
 
 
 [markup]
